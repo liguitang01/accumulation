@@ -1,0 +1,2 @@
+# accumulation
+some go code
